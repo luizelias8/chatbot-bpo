@@ -1,0 +1,125 @@
+# Documento de Procedimentos do Sistema Único
+
+## Tabela de Conteúdos
+1. Conciliação Bancária
+2. Lançamento Contábil
+3. Lançamento de Nota Fiscal
+4. Realizar Baixa de Duplicatas
+5. Gerar Balancete
+
+---
+
+## Conciliação Bancária
+
+### Procedimento para Realizar Conciliação Bancária
+1. Acesso ao Módulo de Conciliação
+   - Navegue até o menu principal e selecione a opção "Conciliação Bancária".
+
+2. Importação dos Extratos
+   - Clique em "Importar Extrato" e selecione o arquivo do extrato bancário.
+   - Revise as informações e clique em "Continuar".
+
+3. Conciliação das Transações
+   - O sistema exibirá as transações a serem conciliadas.
+   - Para cada transação, verifique os dados e clique em "Conferir" para aprovar.
+
+4. Geração do Relatório de Conciliação
+   - Após conciliar todas as transações, clique em "Gerar Relatório".
+   - O relatório será gerado e pode ser salvo ou impresso.
+
+### Possíveis Erros
+- Erro: 'Transação não encontrada'
+  - Verifique se o extrato foi importado corretamente e se todas as transações estão disponíveis.
+
+---
+
+## Lançamento Contábil
+
+### Procedimento para Realizar um Lançamento Contábil
+1. Acesso ao Módulo de Lançamentos
+   - No menu principal, selecione "Lançamentos Contábeis".
+
+2. Criar Novo Lançamento
+   - Clique em "Novo Lançamento".
+
+3. Preencher os Campos
+   - Insira a data, a conta de débito e a conta de crédito.
+   - Preencha outros campos obrigatórios, conforme necessário.
+
+4. Salvar o Lançamento
+   - Após revisar as informações, clique em "Salvar" para registrar o lançamento.
+
+### Possíveis Erros
+- Erro: 'Código de Conta Inválido'
+  - Certifique-se de que o código da conta está correto e que a conta existe no sistema.
+
+---
+
+## Lançamento de Nota Fiscal
+
+### Procedimento para Lançar uma Nota Fiscal
+1. Acesso ao Módulo de Notas Fiscais
+   - Selecione "Lançamento de Notas Fiscais" no menu principal.
+
+2. Registrar Nova Nota Fiscal
+   - Clique em "Nova Nota Fiscal".
+
+3. Preencher os Dados da Nota
+   - Insira as informações necessárias, como número da nota, data de emissão, valor e impostos aplicáveis.
+
+4. Finalizar o Lançamento
+   - Após preencher todos os campos, clique em "Finalizar" para salvar a nota fiscal.
+
+### Possíveis Erros
+- Erro: 'Nota Fiscal já cadastrada'
+  - Verifique se o número da nota fiscal já foi inserido no sistema. Se sim, revise os dados antes de tentar novamente.
+
+---
+
+## Realizar Baixa de Duplicatas
+
+### Procedimento para Realizar a Baixa de Duplicatas
+1. Acesso ao Módulo de Contas a Receber
+   - Navegue até o menu principal e selecione "Contas a Receber".
+
+2. Selecionar a Duplicata
+   - Localize a duplicata que deseja baixar na lista de contas a receber.
+   - Clique sobre a duplicata para selecioná-la.
+
+3. Realizar a Baixa
+   - Após selecionar a duplicata, clique em "Baixar".
+   - Confirme a baixa quando solicitado.
+
+4. Salvar Alterações
+   - Após a baixa, o sistema pode solicitar que você salve as alterações. Clique em "Salvar" para concluir o processo.
+
+### Possíveis Erros
+- Erro: 'Duplicata não encontrada'
+  - Verifique se a duplicata foi corretamente cadastrada no sistema antes de tentar realizar a baixa.
+
+---
+
+## Gerar Balancete
+
+### Procedimento para Gerar Balancete
+1. Acesso ao Módulo de Relatórios
+   - No menu principal, selecione a opção "Relatórios".
+
+2. Selecionar Balancete
+   - Clique na opção "Gerar Balancete".
+
+3. Definir Parâmetros
+   - Insira o período desejado e outros parâmetros necessários, como contas ou centros de custo.
+
+4. Gerar e Salvar o Balancete
+   - Clique em "Gerar". O balancete será exibido na tela.
+   - Para salvar, clique em "Exportar" e escolha o formato desejado (PDF, Excel, etc.).
+
+### Possíveis Erros
+- Erro: 'Nenhum dado encontrado para o período selecionado'
+  - Verifique se o período está correto e se existem lançamentos contabilizados para esse intervalo.
+
+---
+
+### Observações Finais
+Caso encontre dificuldades ou erros não mencionados, entre em contato com a equipe de suporte para assistência adicional.

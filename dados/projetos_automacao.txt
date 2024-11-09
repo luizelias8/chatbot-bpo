@@ -1,0 +1,40 @@
+# Documento de Projetos de Automação
+
+## Tabela de Conteúdos
+1. Projeto de Automação: Importação de Baixas de Duplicatas
+2. Projeto de Automação: Lançamento de Nota Fiscal
+
+---
+
+## Projeto de Automação: Importação de Baixas de Duplicatas
+
+### Descrição do Projeto
+Este projeto tem como objetivo automatizar o processo de importação das baixas de duplicatas no sistema Único, tornando a operação mais eficiente e menos propensa a erros manuais.
+
+### Funcionalidades
+- **Importação em Lote**: Permite a importação de múltiplas baixas de duplicatas através de um arquivo CSV, facilitando a atualização em massa das contas a receber.
+- **Validação de Dados**: Realiza a validação automática dos dados antes da importação, garantindo que todos os registros estejam corretos e completos.
+- **Geração de Relatórios**: Após a importação, o sistema gera um relatório detalhado das baixas realizadas, permitindo que os usuários verifiquem as operações.
+
+### Localização do Projeto
+O projeto está localizado em: [Caminho do Projeto - Importação de Baixas de Duplicatas].
+
+---
+
+## Projeto de Automação: Lançamento de Nota Fiscal
+
+### Descrição do Projeto
+Este projeto visa automatizar o processo de lançamento de notas fiscais no sistema Único, permitindo que os colaboradores realizem essa tarefa de forma mais ágil e eficiente.
+
+### Funcionalidades
+- **Interface Intuitiva**: Oferece uma interface amigável para o usuário, facilitando a inserção de dados das notas fiscais.
+- **Pré-preenchimento de Campos**: O sistema sugere automaticamente dados com base em lançamentos anteriores, reduzindo o tempo de preenchimento e erros.
+- **Integração com Fornecedores**: Possibilita a importação de notas fiscais eletrônicas diretamente do sistema dos fornecedores, otimizando o processo de registro.
+
+### Localização do Projeto
+O projeto está localizado em: [Caminho do Projeto - Lançamento de Nota Fiscal].
+
+---
+
+### Observações Finais
+Caso tenha interesse em mais informações sobre esses projetos ou outros relacionados, sinta-se à vontade para perguntar!
